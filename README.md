@@ -3,6 +3,7 @@
 <h3 align="center">Computer Science Student and Software Developer from Poland</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+- 🎓 I'm **Silesian Univeristy Of Technology** student
 
 - 🔭 I’m currently working on **TSP solution with genetic algorithm**
 
