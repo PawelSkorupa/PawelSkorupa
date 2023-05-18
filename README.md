@@ -3,13 +3,14 @@
 <h3 align="center">Computer Science Student and Software Developer from Poland</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
-- 🎓 I'm **Silesian Univeristy Of Technology** student
+
+- 🎓 I'm a **Silesian Univeristy Of Technology** student
 
 - 🔭 I’m currently working on **TSP solution with genetic algorithm**
 
 - 🌱 I’m currently learning **.Net, Spring Boot, React, TypeScript**
 
-- ⚡ Fun fact **I play electric guitar and sometimes bass in a band**
+- ⚡ Fun fact **I play electric guitar and sometimes bass in a rock band**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
