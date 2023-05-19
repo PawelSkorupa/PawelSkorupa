@@ -1,8 +1,7 @@
-![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">Computer Science Student and Software Developer from Poland</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470vfr2l64d4yabukazkoiqz62bvpqryu3fr9a01mz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🎓 I'm a **Silesian Univeristy Of Technology** student
 
