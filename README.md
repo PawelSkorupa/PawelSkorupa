@@ -5,9 +5,9 @@
 
 - 🎓 I'm a **Silesian Univeristy Of Technology** student
 
-- 🔭 I’m currently working on **TSP solution with genetic algorithm**
+- 🔭 I’m currently working on **Transportation analysis with Neo4j graph database**
 
-- 🌱 I’m currently learning **.Net, Spring Boot, React, TypeScript**
+- 🌱 I’m currently learning **.Net, Spring Boot, ReactTS, Azure**
 
 - ⚡ Fun fact **I play electric guitar and sometimes bass in a rock band**
 
